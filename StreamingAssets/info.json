@@ -1,0 +1,8 @@
+{
+  "timeoutDuration": 90,
+  "scrollTime": 3,
+  "configApi": "https://kiosk.bharatatworldexpo.com/api/zones",
+  "artifactApi": "https://bharatatworldexpo.com/api/artifacts/zone/",
+  "eventsApi": "https://kiosk.bharatatworldexpo.com/api/events"
+}
+  

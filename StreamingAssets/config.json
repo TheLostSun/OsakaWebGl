@@ -1,0 +1,76 @@
+{
+    "entryList": [
+        {
+            "zone_En": "Lotus Courtyard",
+            "data_En": "A serene gateway inspired by the Ajanya Caves, the Lotus Courtyard features Padmapani and other frescoes, celebrating Bharat's artistic and spiritual heritage.",
+            "zone_jp": "ロータス・コートヤード",
+            "data_jp": "アジャンター石窟に着想を得た静寂なゲートウェイであるロータス・コートヤードは、パドマパーニのモチーフやフレスコ画を特徴とし、インド（バラト）の芸術的・精神的遺産を称えます。"
+        },
+        {
+            "zone_En": "Oneness Lounge",
+            "data_En": "Anchored by a sculptural Bodhi Tree and wandering waters installation that guides one on a journey through the pavilion, this immersive space symbolizes interconnectedness, calm, and reflection, embodying the Upanishadic spirit of Vasudhaiva Kutumbakam—the world is one family.",
+            "zone_jp": "ワンネス・ラウンジ",
+            "data_jp": "彫刻的な菩提樹を中心に据えたこの没入型空間は、つながり、平穏、内省を象徴し、「ヴァスダイヴァ・クトゥンバカム（世界は一つの家族）」というウパニシャッドの精神を体現しています。"
+        },
+        {
+            "zone_En": "Heritage Zone",
+            "data_En": "Highlighting India’s UNESCO sites and hidden gems, this zone blends ancient legacies with contemporary art to present Bharat’s cultural richness to the world.",
+            "zone_jp": "ヘリテージ・ゾーン",
+            "data_jp": "ユネスコ世界遺産や知られざる文化財を通じて、古代の遺産と現代アートを融合させ、バラトの文化的豊かさを世界に紹介します。"
+        },
+        {
+            "zone_En": "Innovative India",
+            "data_En": "Showcasing digital transformation, renewable energy, and grassroots tech, this zone presents Bharat’s leap into a future driven by creativity, sustainability, and inclusivity.",
+            "zone_jp": "イノベーティブ・インディア",
+            "data_jp": "デジタル変革、再生可能エネルギー、地域発のテクノロジーを紹介し、創造性・持続可能性・包括性によって未来へ飛躍するバラトの姿を描きます。"
+        },
+        {
+            "zone_En": "Ministry Chambers",
+            "data_En": "An interactive space displaying flagship government initiatives, policies, and governance reforms that enable transparency, development, and global cooperation.",
+            "zone_jp": "ミニストリー・チェンバーズ",
+            "data_jp": "政府の主要施策や政策、統治改革を紹介するインタラクティブな展示空間で、透明性、開発、国際的な協力を推進します。"
+        },
+        {
+            "zone_En": "Pro Vista",
+            "data_En": "A panoramic walkthrough of India’s achievements across sectors—from infrastructure to space—Pro Vista symbolizes Bharat’s journey from beneath the surface to beyond the skies.",
+            "zone_jp": "プロ・ビスタ",
+            "data_jp": "インフラから宇宙開発まで、インドの多分野にわたる成果をパノラマ形式で紹介する展示空間。地中から宇宙までのバラトの成長の歩みを象徴しています。"
+        },
+        {
+            "zone_En": "State Hall",
+            "data_En": "Each Indian state shares its unique story through rotating exhibits, highlighting regional culture, economic growth, and investment potential.",
+            "zone_jp": "ステート・ホール",
+            "data_jp": "各州が順番に文化、経済、開発の物語を共有し、地域の多様性と投資機会を紹介するダイナミックな展示空間です。"
+        },
+        {
+            "zone_En": "Corporate Hub",
+            "data_En": "A platform for Indian industries to showcase innovations, partnerships, and their role in shaping the nation’s economic future and global footprint.",
+            "zone_jp": "コーポレート・ハブ",
+            "data_jp": "インドの産業界がイノベーションやグローバルな連携を披露し、経済成長への貢献を紹介するビジネス・プロモーションの場です。"
+        },
+        {
+            "zone_En": "Bharat Bazaar",
+            "data_En": "A vibrant marketplace offering authentic Indian crafts and products, promoting local artisans and taking Bharat’s cultural vibrance from local to global.",
+            "zone_jp": "バラト・バザール",
+            "data_jp": "地元職人の工芸品や製品を販売する活気あふれるマーケットスペースで、地域から世界へとつながる文化的インパクトを発信します。"
+        },
+        {
+            "zone_En": "Multipurpose Hall",
+            "data_En": "A flexible venue for screenings, panels, workshops, and events, equipped with modern AV systems and a green room to host diverse programming.",
+            "zone_jp": "マルチパーパス・ホール",
+            "data_jp": "上映会、パネル、ワークショップなど多様なイベントに対応可能な多目的ホールで、最新AV設備と控室を完備しています。"
+        },
+        {
+            "zone_En": " ODOP Zone",
+            "data_En": "Celebrating India’s unique artisanal crafts under the One District One Product initiative, this zone supports livelihoods and sustains centuries-old traditions.",
+            "zone_jp": "⁠ODOPゾーン",
+            "data_jp": "「ワン・ディストリクト・ワン・プロダクト（ODOP）」政策に基づき、インド各地の職人技を称えるゾーンで、伝統の継承と生活支援を目的としています。"
+        },
+        {
+            "zone_En": "Food Courtyard",
+            "data_En": "An inviting space where visitors can taste the diverse culinary heritage of India, offering a multisensory experience of Bharat’s regional flavors.",
+            "zone_jp": "フード・コートヤード",
+            "data_jp": "インドの多彩な食文化を体験できる空間で、バラトの地方料理を通じて五感で楽しめる没入型体験を提供します。"
+        }
+    ]
+}

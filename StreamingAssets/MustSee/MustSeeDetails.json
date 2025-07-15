@@ -1,0 +1,223 @@
+{
+    "zones": [
+        {
+            "entries": [
+                {
+                    "index": 1,
+                    "title_en": "Padmapani",
+                    "description_en": "Cave No. 01, Ajanta Caves",
+                    "title_jp": "パドマパニ",
+                    "description_jp": "アジャンター石窟群第1洞窟"
+                }
+            ]
+        },
+        {
+            "entries": [
+                {
+                    "index": 1,
+                    "title_en": "Temple Pillar",
+                    "description_en": "Enduring element of Pallava Temple Architecture",
+                    "title_jp": "",
+                    "description_jp": ""
+                },
+                {
+                    "index": 2,
+                    "title_en": "Medallion Frame",
+                    "description_en": "Design inspired by the lotus medallions of the Bharhut Stupa",
+                    "title_jp": "メダリオンフレーム",
+                    "description_jp": "バールハット仏塔の蓮華のメダリオンにインスピレーションを得たデザイン"
+                },
+                {
+                    "index": 3,
+                    "title_en": "Panchmukhi Ganesha",
+                    "description_en": "Indian Regional Artefacts",
+                    "title_jp": "パンチムキ・ガネーシャ",
+                    "description_jp": "インドの地方工芸品"
+                },
+                {
+                    "index": 4,
+                    "title_en": "The Dancing Girl ",
+                    "description_en": "Ancient Indian Artefact",
+                    "title_jp": "踊る少女",
+                    "description_jp": "インドの古代遺物"
+                },
+                {
+                    "index": 5,
+                    "title_en": "Carved Lion ",
+                    "description_en": "Indian Regional Artefacts",
+                    "title_jp": "彫刻されたライオン",
+                    "description_jp": "インドの地方工芸品"
+                },
+                {
+                    "index": 6,
+                    "title_en": "The Navagraha",
+                    "description_en": "Regional Artefacts",
+                    "title_jp": "ナヴァグラハ",
+                    "description_jp": "地域の工芸品"
+                },
+                {
+                    "index": 7,
+                    "title_en": "The ODOP Story - Personifying Oneness",
+                    "description_en": "Left Display ",
+                    "title_jp": "ODOPストーリー - 一体感を体現する",
+                    "description_jp": "左ディスプレイ"
+                },
+                {
+                    "index": 8,
+                    "title_en": "The ODOP Story - Personifying Oneness",
+                    "description_en": "Centre Display Shelf",
+                    "title_jp": "ODOPストーリー - 一体感を体現する",
+                    "description_jp": "センターディスプレイ棚"
+                },
+                {
+                    "index": 9,
+                    "title_en": "Antique Elephants",
+                    "description_en": "Indian Regional Artefacts",
+                    "title_jp": "アンティークエレファンツ",
+                    "description_jp": "インドの地方工芸品"
+                },
+                {
+                    "index": 10,
+                    "title_en": "Ardhanarishvara Replica",
+                    "description_en": "Indian Ancient Artefact",
+                    "title_jp": "アルダナリシュヴァラのレプリカ",
+                    "description_jp": "インドの古代遺物"
+                },
+                {
+                    "index": 11,
+                    "title_en": "The ODOP Story - Personifying Oneness",
+                    "description_en": "Right Display ",
+                    "title_jp": "ODOPストーリー - 一体感を体現する",
+                    "description_jp": "右ディスプレイ"
+                }
+            ]
+        },
+        {
+            "entries": [
+                {
+                    "index": 1,
+                    "title_en": "Bonds of soil ",
+                    "description_en": "Terracotta installation moulded from the clay of 28 states and 8 union territories",
+                    "title_jp": "土の絆",
+                    "description_jp": "キルティ・マハラナによるテラコッタのインスタレーション"
+                }
+            ]
+        },
+        {
+            "entries": [
+                {
+                    "index": 1,
+                    "title_en": "Bamboo Rice Beer Mug and Bamboo Weave Basket from Peren",
+                    "description_en": "Indian Regional Artefacts",
+                    "title_jp": "ペレンの竹製ライスビールジョッキと竹編みバスケット",
+                    "description_jp": "インドの地方工芸品"
+                },
+                {
+                    "index": 2,
+                    "title_en": "Kinetic Art Table",
+                    "description_en": "Interactive Installation by Lunooom",
+                    "title_jp": "キネティックアートテーブル",
+                    "description_jp": "Lunooomによるインタラクティブインスタレーション"
+                },
+                {
+                    "index": 3,
+                    "title_en": "The Threaded Frequencies",
+                    "description_en": "E-textile Interactive Installation ",
+                    "title_jp": "スレッド周波数",
+                    "description_jp": "Eテキスタイルインタラクティブインスタレーション"
+                }
+            ]
+        },
+        {
+            "entries": [
+                {
+                    "index": 1,
+                    "title_en": "Ashoka Stambh",
+                    "description_en": "National Emblem of India",
+                    "title_jp": "",
+                    "description_jp": ""
+                },
+                {
+                    "index": 2,
+                    "title_en": "Shiva Corridor",
+                    "description_en": "Regional Artefacts",
+                    "title_jp": "シヴァ回廊",
+                    "description_jp": "地域の工芸品"
+                }
+            ]
+        },
+        {
+            "entries": [
+                {
+                    "index": 1,
+                    "title_en": "Crystals, Minerals & the Hidden Wealth of Bharat",
+                    "description_en": "Tradition Beneath the Surface",
+                    "title_jp": "クリスタル、鉱物、そしてインドの隠れた富",
+                    "description_jp": "表面下の伝統"
+                },
+                {
+                    "index": 2,
+                    "title_en": "Vande Bhaarat (2019)",
+                    "description_en": "The Legacy of Indian Railways",
+                    "title_jp": "ヴァンデ・バーラト（2019）",
+                    "description_jp": "インド鉄道の遺産"
+                }
+            ]
+        },
+        {
+            "entries": []
+        },
+        {
+            "entries": [
+                {
+                    "index": 1,
+                    "title_en": "Dome Lid Containers",
+                    "description_en": "Kashmir Paper Machie",
+                    "title_jp": "ドーム蓋容器",
+                    "description_jp": "カシミールペーパーマチー"
+                }
+            ]
+        },
+        {
+            "entries": []
+        },
+        {
+            "entries": []
+        },
+        {
+            "entries": [
+                {
+                    "index": 1,
+                    "title_en": "Tholu Bommalata",
+                    "description_en": "Regional Artefacts",
+                    "title_jp": "トゥル・ボンマラタ",
+                    "description_jp": "地域の工芸品"
+                },
+                {
+                    "index": 2,
+                    "title_en": "One District One Product",
+                    "description_en": "Where regional craftsmanship shines",
+                    "title_jp": "1地区1製品",
+                    "description_jp": "地域の職人技が光る場所"
+                },
+                {
+                    "index": 3,
+                    "title_en": "Kanpur Saddlery",
+                    "description_en": "ODOP ZONE 1 | Regional Artefacts",
+                    "title_jp": "カンプールサドルリー",
+                    "description_jp": "ODOPゾーン1 | 地域の遺物"
+                },
+                {
+                    "index": 4,
+                    "title_en": "One District One Product",
+                    "description_en": "Where regional craftsmanship shines",
+                    "title_jp": "1地区1製品",
+                    "description_jp": "地域の職人技が光る場所"
+                }
+            ]
+        },
+        {
+            "entries": []
+        }
+    ]
+}
