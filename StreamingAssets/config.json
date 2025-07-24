@@ -2,51 +2,21 @@
     "entryList": [
         {
             "zone_En": "Lotus Courtyard",
-            "data_En": "A serene gateway inspired by the Ajanya Caves, the Lotus Courtyard features Padmapani and other frescoes, celebrating Bharat's artistic and spiritual heritage.",
+            "data_En": "Nestled between the pavilion’s striking exterior and immersive interior, the Lotus Courtyard showcases a curated collection of Bodhisattva forms and reproductions of frescoes from the Ajanta Caves, the two-thousand-year-old UNESCO World Heritage site. This tranquil space honours ancient India’s artistic and spiritual legacy. As a metaphorical and immersive gateway, it invites the globe to experience Bharat’s rich heritage and its role as a transnational connector of thoughts, artistic journey, and spiritual achievement.",
             "zone_jp": "ロータス・コートヤード",
-            "data_jp": "アジャンター石窟に着想を得た静寂なゲートウェイであるロータス・コートヤードは、パドマパーニのモチーフやフレスコ画を特徴とし、インド（バラト）の芸術的・精神的遺産を称えます。"
-        },
-        {
-            "zone_En": "Oneness Lounge",
-            "data_En": "Anchored by a sculptural Bodhi Tree and wandering waters installation that guides one on a journey through the pavilion, this immersive space symbolizes interconnectedness, calm, and reflection, embodying the Upanishadic spirit of Vasudhaiva Kutumbakam—the world is one family.",
-            "zone_jp": "ワンネス・ラウンジ",
-            "data_jp": "彫刻的な菩提樹を中心に据えたこの没入型空間は、つながり、平穏、内省を象徴し、「ヴァスダイヴァ・クトゥンバカム（世界は一つの家族）」というウパニシャッドの精神を体現しています。"
+            "data_jp": "パビリオンの印象的な外観と没入型の内観に挟まれたロータス・コートヤードには、厳選された菩薩像のコレクションと、2000年前のユネスコ世界遺産であるアジャンター石窟群のフレスコ画の複製が展示されています。この静謐な空間は、古代インドの芸術的・精神的遺産を称えています。比喩的でありながら没入型の入り口として、世界中の人々をインドの豊かな遺産、そして思考、芸術的旅、そして精神的到達を国境を越えて繋ぐその役割へと誘います。"
         },
         {
             "zone_En": "Heritage Zone",
-            "data_En": "Highlighting India’s UNESCO sites and hidden gems, this zone blends ancient legacies with contemporary art to present Bharat’s cultural richness to the world.",
+            "data_En": "The Heritage Zone celebrates India’s rich legacy by showcasing UNESCO World Heritage Sites alongside an immersive presentation of hidden treasures, aiming to boost tourism and global recognition. The visual arts display enriches this narrative, offering a contemporary take on Bharat’s cultural heritage.",
             "zone_jp": "ヘリテージ・ゾーン",
-            "data_jp": "ユネスコ世界遺産や知られざる文化財を通じて、古代の遺産と現代アートを融合させ、バラトの文化的豊かさを世界に紹介します。"
-        },
-        {
-            "zone_En": "Innovative India",
-            "data_En": "Showcasing digital transformation, renewable energy, and grassroots tech, this zone presents Bharat’s leap into a future driven by creativity, sustainability, and inclusivity.",
-            "zone_jp": "イノベーティブ・インディア",
-            "data_jp": "デジタル変革、再生可能エネルギー、地域発のテクノロジーを紹介し、創造性・持続可能性・包括性によって未来へ飛躍するバラトの姿を描きます。"
-        },
-        {
-            "zone_En": "Ministry Chambers",
-            "data_En": "An interactive space displaying flagship government initiatives, policies, and governance reforms that enable transparency, development, and global cooperation.",
-            "zone_jp": "ミニストリー・チェンバーズ",
-            "data_jp": "政府の主要施策や政策、統治改革を紹介するインタラクティブな展示空間で、透明性、開発、国際的な協力を推進します。"
-        },
-        {
-            "zone_En": "Pro Vista",
-            "data_En": "A panoramic walkthrough of India’s achievements across sectors—from infrastructure to space—Pro Vista symbolizes Bharat’s journey from beneath the surface to beyond the skies.",
-            "zone_jp": "プロ・ビスタ",
-            "data_jp": "インフラから宇宙開発まで、インドの多分野にわたる成果をパノラマ形式で紹介する展示空間。地中から宇宙までのバラトの成長の歩みを象徴しています。"
+            "data_jp": "ヘリテージゾーンでは、ユネスコ世界遺産を展示するとともに、隠れた宝物を没入型の展示で紹介することで、インドの豊かな遺産を称え、観光と世界的な認知度の向上を目指しています。視覚芸術展示は、この物語をさらに豊かにし、インドの文化遺産を現代的な視点で表現しています。"
         },
         {
             "zone_En": "State Hall",
-            "data_En": "Each Indian state shares its unique story through rotating exhibits, highlighting regional culture, economic growth, and investment potential.",
+            "data_En": "The State Hall serves as a dynamic platform where Bharat’s states showcase their developmental narratives of culture, economy, public policy, and other subjects. The rotating participation ensures diverse representation, glorifying India’s unity in diversity. Through immersive digital displays, artefact exhibits, tourism highlights, and interactive presentations, various states spotlight their achievements, innovations, and aspirations. This space also fosters international networking, inviting a global audience to exploreinvestment, policy, and consultancy opportunities.",
             "zone_jp": "ステート・ホール",
-            "data_jp": "各州が順番に文化、経済、開発の物語を共有し、地域の多様性と投資機会を紹介するダイナミックな展示空間です。"
-        },
-        {
-            "zone_En": "Corporate Hub",
-            "data_En": "A platform for Indian industries to showcase innovations, partnerships, and their role in shaping the nation’s economic future and global footprint.",
-            "zone_jp": "コーポレート・ハブ",
-            "data_jp": "インドの産業界がイノベーションやグローバルな連携を披露し、経済成長への貢献を紹介するビジネス・プロモーションの場です。"
+            "data_jp": "ステート・ホールは、インド各州が文化、経済、公共政策など、様々な分野における発展の軌跡を披露するダイナミックなプラットフォームです。各州が持ち回りで参加することで多様な代表性を確保し、多様性の中にあるインドの統一性を称えます。没入型デジタルディスプレイ、工芸品展示、観光ハイライト、インタラクティブなプレゼンテーションを通して、各州がそれぞれの成果、革新、そして抱負をアピールします。また、このスペースは国際的なネットワーキングを促進し、世界中の人々を投資、政策、コンサルティングの機会へと誘います。"
         },
         {
             "zone_En": "Bharat Bazaar",
@@ -56,21 +26,51 @@
         },
         {
             "zone_En": "Multipurpose Hall",
-            "data_En": "A flexible venue for screenings, panels, workshops, and events, equipped with modern AV systems and a green room to host diverse programming.",
+            "data_En": "A flexible venue for screenings, panel discussions, workshops, and events, equipped with modern audio-visual systems and a green room to host diverse programming.",
             "zone_jp": "マルチパーパス・ホール",
-            "data_jp": "上映会、パネル、ワークショップなど多様なイベントに対応可能な多目的ホールで、最新AV設備と控室を完備しています。"
+            "data_jp": "上映会、パネルディスカッション、ワークショップ、イベントなど、さまざまなプログラムを開催できる最新の視聴覚システムとグリーンルームを備えた、柔軟に利用できる会場です。"
         },
         {
-            "zone_En": " ODOP Zone",
-            "data_En": "Celebrating India’s unique artisanal crafts under the One District One Product initiative, this zone supports livelihoods and sustains centuries-old traditions.",
-            "zone_jp": "⁠ODOPゾーン",
-            "data_jp": "「ワン・ディストリクト・ワン・プロダクト（ODOP）」政策に基づき、インド各地の職人技を称えるゾーンで、伝統の継承と生活支援を目的としています。"
+            "zone_En": "Corporate Hub",
+            "data_En": "A platform for Indian industries to showcase innovations, partnerships, and their role in shaping the nation’s economic future and global footprint.",
+            "zone_jp": "コーポレート・ハブ",
+            "data_jp": "インドの産業界がイノベーションやグローバルな連携を披露し、経済成長への貢献を紹介するビジネス・プロモーションの場です。"
         },
         {
             "zone_En": "Food Courtyard",
             "data_En": "An inviting space where visitors can taste the diverse culinary heritage of India, offering a multisensory experience of Bharat’s regional flavors.",
             "zone_jp": "フード・コートヤード",
             "data_jp": "インドの多彩な食文化を体験できる空間で、バラトの地方料理を通じて五感で楽しめる没入型体験を提供します。"
+        },
+        {
+            "zone_En": " ODOP Zone",
+            "data_En": "Inspired by the Government of India’s One District One Product (ODOP) initiative, this zone highlights unique products and craftsmanship from each district. It celebrates human ingenuity, cultural diversity, and traditional folk and tribal practices. ODOP preserves and promotes traditional art forms, supports artisans, strengthens local economies, and ensures that these skills are remembered and actively carried forward, facilitating and encouraging economic sustenance approaches. This display is a testament to ensuring the relevance of these living traditions in a rapidly evolving Bharat.",
+            "zone_jp": "⁠ODOPゾーン",
+            "data_jp": "インド政府の「一地区一品（ODOP）」イニシアチブに着想を得たこのゾーンでは、各地区のユニークな製品と職人技が展示されます。人々の創意工夫、文化の多様性、そして伝統的な民俗・部族の慣習を称えるものです。ODOPは、伝統芸術の保存と振興、職人の支援、地域経済の活性化、そしてこれらの技術が記憶され、積極的に継承されることを促し、経済的自立へのアプローチを促進・奨励しています。この展示は、急速に発展するインドにおいて、これらの生きた伝統の重要性を確かなものにする証です。"
+        },
+        {
+            "zone_En": "Innovative India",
+            "data_En": "At the heart of this zone are initiatives that have bridged the digital divide and made technology accessible, inclusive, and affordable for all. Over the past decade, these missions have strengthened India’s digital infrastructure, enhanced connectivity, and expanded digital literacy, ensuring active participation at a grassroots level in the nation’s technological evolution. Much like the spread of enlightenment, these initiatives have enabled knowledge and innovation to ripple across society, preparing the country for the future. Digital storytelling and interactive exhibits explore themes such as renewable energy, natural resources, smart solutions, digitising traditions, and future-forward innovations. Artistic interventions, including the kinetic sand art table, encourage dialogue between creativity and innovation.",
+            "zone_jp": "イノベーティブ・インディア",
+            "data_jp": "このゾーンの中心には、デジタルデバイドを解消し、テクノロジーを誰もがアクセスしやすく、包摂的で、手頃な価格で利用できるようにしてきた取り組みがあります。過去10年間、これらの取り組みはインドのデジタルインフラを強化し、接続性を高め、デジタルリテラシーを向上させ、国の技術革新への草の根レベルでの積極的な参加を促してきました。啓蒙思想の普及と同様に、これらの取り組みは知識とイノベーションを社会全体に波及させ、国の未来への備えを促してきました。デジタルストーリーテリングとインタラクティブな展示では、再生可能エネルギー、天然資源、スマートソリューション、伝統のデジタル化、未来を見据えたイノベーションといったテーマを探求しています。キネティックサンドアートテーブルなどの芸術的介入は、創造性とイノベーションの対話を促進します。"
+        },
+        {
+            "zone_En": "Oneness Lounge",
+            "data_En": "Oneness Lounge is a welcoming yet inward space that begins with the creative Bodhi tree installation, emblematic of wisdom, enlightenment, and the spirit of calmness amidst motion. Further, the stream of water representation starting from the roots of this Bodhi tree represents life, nourishment, and resilience. The space celebrates diversity, encourages reflection, and fosters dialogue by blending nature-inspired elements with cultural narratives. It embodies India’s ethos of ‘Oneness’, inspired by the Upanishadic expression <i>Vasudhaiva Kutumbakam</i>: The world is one family.",
+            "zone_jp": "ワンネス・ラウンジ",
+            "data_jp": "ワンネスラウンジは、独創的な菩提樹のインスタレーションから始まる、温かくも内省的な空間です。菩提樹は、知恵、悟り、そして動きの中にある静寂の精神を象徴しています。さらに、この菩提樹の根元から始まる水の流れは、生命、滋養、そして回復力を象徴しています。この空間は、自然からインスピレーションを得た要素と文化的な物語を融合させることで、多様性を称え、内省を促し、対話を育みます。ウパニシャッドの「世界は一つの家族である」という表現に着想を得た、インドの「ワンネス（一体性）」の精神を体現しています。"
+        },
+        {
+            "zone_En": "Ministry Chambers",
+            "data_En": "The Ministry Zone is a dynamic hub showcasing achievements, policies, and projects relating to India’s governance. Featuring static and dynamic display mediums, it is designed to enable collaboration around various ministry initiatives. The zone aims to encourage dialogue, transparency, and networking, inviting international investments and consultations.",
+            "zone_jp": "ミニストリー・チェンバーズ",
+            "data_jp": "ミニストリー・ゾーンは、インドのガバナンスに関する成果、政策、プロジェクトを紹介するダイナミックなハブです。静的および動的な展示媒体を備え、様々な省庁の取り組みを軸としたコラボレーションを促進するように設計されています。このゾーンは、対話、透明性、ネットワーキングを促進し、国際的な投資や協議を誘致することを目指しています。"
+        },
+        {
+            "zone_En": "Pro Vista",
+            "data_En": "A panoramic walkthrough of India’s achievements across sectors—from infrastructure to space—Pro Vista symbolizes Bharat’s journey from beneath the surface to beyond the skies.",
+            "zone_jp": "プロ・ビスタ",
+            "data_jp": "インフラから宇宙開発まで、インドの多分野にわたる成果をパノラマ形式で紹介する展示空間。地中から宇宙までのバラトの成長の歩みを象徴しています。"
         }
     ]
 }
